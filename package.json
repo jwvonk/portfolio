@@ -11,7 +11,7 @@
     "test": "eslint . && prettier . --check && tsc && vite build"
   },
   "devDependencies": {
-    "@eslint/js": "^9.15.0",
+    "@types/node": "^22.10.1",
     "eslint": "^9.15.0",
     "eslint-config-prettier": "^9.1.0",
     "husky": "^9.1.7",
