@@ -1,0 +1,25 @@
+body {
+  font-family: "Arial", sans-serif;
+  background: linear-gradient(to bottom, #f4e4c1, #d2a679);
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #8c6239;
+  color: white;
+  padding: 1rem;
+}
+
+nav a {
+  margin: 0 1rem;
+  color: white;
+  text-decoration: none;
+}
+
+.project-list {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
